@@ -5,6 +5,7 @@ int main()
 {
 cout << "sup" << endl;
 cout << "hello" << endl;
+cout<<hi
 
 cout << "addition #2" << endl;
 }
